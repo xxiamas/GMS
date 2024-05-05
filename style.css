@@ -515,7 +515,7 @@ section {
     display: flex;
     align-items: center;
     padding-left: 30px;
-    color: #50C878;
+    color: black;
 }
 
 .title::before {
@@ -555,7 +555,7 @@ section {
 }
 
 .signin a {
-    color: #50C878;
+    color: #319a54;
 }
 
 .flex {
