@@ -370,7 +370,7 @@ section {
 }
 
 .features .box-container .box {
-    padding: 2rem;
+    padding: 2rem 2rem;
     background: #fff;
     outline: var(--outline);
     outline-offset: -1rem;
