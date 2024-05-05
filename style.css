@@ -62,13 +62,14 @@ section {
 
 .header .navbar a {
     font-size: 2rem;
-    padding-left: 5rem;
+    padding: 2.8rem;
     margin: 0 1rem;
     color: var(--black);
 }
 
 .header .navbar a:hover {
     color: var(--green);
+    border-bottom: 4px solid #50C878;
 }
 
 .header .icons div {
