@@ -500,11 +500,11 @@ section {
     max-width: 450px;
     height: 550px;
     padding: 20px;
-    border-radius: 1.3rem;
+    border-radius: 1rem;
     position: relative;
     background-color: #fff;
     color: #fff;
-    border: 2px solid #333;
+    /* border: 2px solid #333; */
 }
 
 .title {
